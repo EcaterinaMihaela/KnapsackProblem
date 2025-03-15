@@ -1,0 +1,8 @@
+Lobsters sizes and values:
+Lobster 1: Size = 13 cm, Value = 58 gold coins
+
+The capacity of the bag is 4
+
+The max value is: 0
+
+Selected lobsters:
