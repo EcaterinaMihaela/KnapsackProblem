@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1715759534 source:d:\euc\tema_de_casa_pa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"knapsack.h"
+
+1715604562 source:d:\euc\tema_de_casa_pa\vector.c
+	<stdio.h>
+	"vector.h"
+
+1715604550 d:\euc\tema_de_casa_pa\vector.h
+
+1715721790 source:d:\euc\tema_de_casa_pa\knapsack.c
+	<stdlib.h>
+	"knapsack.h"
+
+1715714309 d:\euc\tema_de_casa_pa\knapsack.h
+
+1716493781 source:d:\pa\tema_de_casa_pa\knapsack.c
+	<stdlib.h>
+	"knapsack.h"
+
+1716493774 d:\pa\tema_de_casa_pa\knapsack.h
+
+1716493673 source:d:\pa\tema_de_casa_pa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"knapsack.h"
+

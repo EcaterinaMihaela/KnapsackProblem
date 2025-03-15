@@ -1,0 +1,25 @@
+Lobsters sizes and values:
+Lobster 1: Size = 29 cm, Value = 72 gold coins
+Lobster 2: Size = 4 cm, Value = 149 gold coins
+Lobster 3: Size = 19 cm, Value = 113 gold coins
+Lobster 4: Size = 2 cm, Value = 184 gold coins
+Lobster 5: Size = 16 cm, Value = 115 gold coins
+Lobster 6: Size = 17 cm, Value = 180 gold coins
+Lobster 7: Size = 9 cm, Value = 22 gold coins
+Lobster 8: Size = 14 cm, Value = 164 gold coins
+Lobster 9: Size = 10 cm, Value = 169 gold coins
+Lobster 10: Size = 7 cm, Value = 167 gold coins
+Lobster 11: Size = 30 cm, Value = 5 gold coins
+Lobster 12: Size = 19 cm, Value = 63 gold coins
+
+The capacity of the bag is 50
+
+The max value is: 871
+
+Selected lobsters:
+Lobster 10: Size = 7 cm, Value = 167 gold coins
+Lobster 9: Size = 10 cm, Value = 169 gold coins
+Lobster 7: Size = 9 cm, Value = 22 gold coins
+Lobster 6: Size = 17 cm, Value = 180 gold coins
+Lobster 4: Size = 2 cm, Value = 184 gold coins
+Lobster 2: Size = 4 cm, Value = 149 gold coins
